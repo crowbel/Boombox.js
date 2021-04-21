@@ -9,11 +9,11 @@
   "author": "Magnus Kråbøl",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.5.3"
+    "discord.js": "^12.5.3",
+    "node.js": "0.0.1-security"
   },
   "devDependencies": {
     "yt-search": "^2.8.0",
     "ytdl-core": "^4.5.0"
-
   }
 }
